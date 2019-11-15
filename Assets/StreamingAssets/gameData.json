@@ -1,0 +1,147 @@
+{
+    "debugStage": "",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "roundsPerMatch": 5,
+    "colors": [
+        {
+            "colorName": "Red",
+            "colorHex": "#fe4469"
+        },
+        {
+            "colorName": "Blue",
+            "colorHex": "#0eb6eb"
+        },
+        {
+            "colorName": "Yellow",
+            "colorHex": "#ffb800"
+        },
+        {
+            "colorName": "Teal",
+            "colorHex": "#0bc2b2"
+        },
+        {
+            "colorName": "Gray",
+            "colorHex": "#9fadc4"
+        },
+        {
+            "colorName": "Purple",
+            "colorHex": "#7d4acd"
+        },
+        {
+            "colorName": "Pink",
+            "colorHex": "#ff91e2"
+        },
+        {
+            "colorName": "Black",
+            "colorHex": "#464a5a"
+        }
+    ],
+    "characters": [
+        {
+            "characterName": "Shiba",
+            "characterID": "CHARACTER_MAIN",
+            "characterVariant": 4,
+            "characterIconPath": "Char-Large-Shiba.png"
+        },
+        {
+          "characterName": "Bear",
+          "characterID": "CHARACTER_MAIN",
+          "characterVariant": 0,
+          "characterIconPath": "Char-Large-Bear.png"
+        },
+        {
+          "characterName": "Panda",
+          "characterID": "CHARACTER_MAIN",
+          "characterVariant": 3,
+          "characterIconPath": "Char-Large-Panda.png"
+        },
+        {
+            "characterName": "Corgi",
+            "characterID": "CHARACTER_MAIN",
+            "characterVariant": 1,
+            "characterIconPath": "Char-Large-Corgi.png"
+        },
+        {
+          "characterName": "Dino",
+          "characterID": "CHARACTER_MAIN",
+          "characterVariant": 2,
+          "characterIconPath": "Char-Large-Dino.png"
+        },
+        {
+          "characterName": "Bunny",
+          "characterID": "CHARACTER_MAIN",
+          "characterVariant": 5,
+          "characterIconPath": "Char-Large-Bunny.png"
+        },
+        {
+          "characterName": "Kitty",
+          "characterID": "CHARACTER_MAIN",
+          "characterVariant": 6,
+          "characterIconPath": "Char-Large-Kitty.png"
+        },
+        {
+          "characterName": "Fox",
+          "characterID": "CHARACTER_MAIN",
+          "characterVariant": 7,
+          "characterIconPath": "Char-Large-Fox.png"
+        }
+    ],
+    "stages": [
+        {
+            "stageName": "The Game Jam",
+            "stageID": "STAGE_001",
+            "stageComplexity": 0
+        },
+        {
+            "stageName": "The Library",
+            "stageID": "STAGE_002",
+            "stageComplexity": 0
+        },
+        {
+            "stageName": "The Moat",
+            "stageID": "STAGE_003",
+            "stageComplexity": 2
+        },
+        {
+            "stageName": "The Two Halls",
+            "stageID": "STAGE_004",
+            "stageComplexity": 3
+        },
+        {
+            "stageName": "The Dormitory",
+            "stageID": "STAGE_005",
+            "stageComplexity": 3
+        },
+        {
+            "stageName": "The Dining Hall",
+            "stageID": "STAGE_006",
+            "stageComplexity": 3
+        },
+        {
+            "stageName": "Home Theater",
+            "stageID": "STAGE_007",
+            "stageComplexity": 3
+        },
+        {
+            "stageName": "Study Hall",
+            "stageID": "STAGE_008",
+            "stageComplexity": 3
+        },
+        {
+            "stageName": "Eye of the Storm",
+            "stageID": "STAGE_009",
+            "stageComplexity": 3
+        },
+        {
+            "stageName": "The Classroom",
+            "stageID": "STAGE_010",
+            "stageComplexity": 0
+        },
+        {
+            "stageName": "The Office",
+            "stageID": "STAGE_011",
+            "stageComplexity": 0
+        }
+    ]
+}

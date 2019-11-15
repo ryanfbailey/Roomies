@@ -1,0 +1,4035 @@
+{
+    "stageID": "STAGE_008",
+    "columns": 23,
+    "rows": 15,
+    "tiles": [
+        {
+            "tileIndex": 0,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 23,
+            "tileUp": 322,
+            "tileRight": 1,
+            "tileLeft": 22
+        },
+        {
+            "tileIndex": 1,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 24,
+            "tileUp": 323,
+            "tileRight": 2,
+            "tileLeft": 0
+        },
+        {
+            "tileIndex": 2,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 25,
+            "tileUp": 324,
+            "tileRight": 3,
+            "tileLeft": 1
+        },
+        {
+            "tileIndex": 4,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 27,
+            "tileUp": 326,
+            "tileRight": 18,
+            "tileLeft": 3
+        },
+        {
+            "tileIndex": 18,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 41,
+            "tileUp": 340,
+            "tileRight": 19,
+            "tileLeft": 4
+        },
+        {
+            "tileIndex": 19,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 42,
+            "tileUp": 341,
+            "tileRight": 20,
+            "tileLeft": 18
+        },
+        {
+            "tileIndex": 20,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 43,
+            "tileUp": 342,
+            "tileRight": 21,
+            "tileLeft": 19
+        },
+        {
+            "tileIndex": 21,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 44,
+            "tileUp": 343,
+            "tileRight": 22,
+            "tileLeft": 20
+        },
+        {
+            "tileIndex": 22,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 45,
+            "tileUp": 344,
+            "tileRight": 0,
+            "tileLeft": 21
+        },
+        {
+            "tileIndex": 23,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 46,
+            "tileUp": 0,
+            "tileRight": 24,
+            "tileLeft": 45
+        },
+        {
+            "tileIndex": 24,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 47,
+            "tileUp": 1,
+            "tileRight": 25,
+            "tileLeft": 23
+        },
+        {
+            "tileIndex": 25,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 48,
+            "tileUp": 2,
+            "tileRight": 26,
+            "tileLeft": 24
+        },
+        {
+            "tileIndex": 26,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 49,
+            "tileUp": 3,
+            "tileRight": 27,
+            "tileLeft": 25
+        },
+        {
+            "tileIndex": 27,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 50,
+            "tileUp": 4,
+            "tileRight": 41,
+            "tileLeft": 26
+        },
+        {
+            "tileIndex": 30,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 53,
+            "tileUp": 306,
+            "tileRight": 31,
+            "tileLeft": 29
+        },
+        {
+            "tileIndex": 31,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 54,
+            "tileUp": 307,
+            "tileRight": 32,
+            "tileLeft": 30
+        },
+        {
+            "tileIndex": 32,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 55,
+            "tileUp": 78,
+            "tileRight": 33,
+            "tileLeft": 31
+        },
+        {
+            "tileIndex": 33,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 56,
+            "tileUp": 309,
+            "tileRight": 34,
+            "tileLeft": 32
+        },
+        {
+            "tileIndex": 34,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 57,
+            "tileUp": 310,
+            "tileRight": 35,
+            "tileLeft": 33
+        },
+        {
+            "tileIndex": 35,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 58,
+            "tileUp": 311,
+            "tileRight": 36,
+            "tileLeft": 34
+        },
+        {
+            "tileIndex": 36,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 59,
+            "tileUp": 128,
+            "tileRight": 37,
+            "tileLeft": 35
+        },
+        {
+            "tileIndex": 37,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 60,
+            "tileUp": 313,
+            "tileRight": 38,
+            "tileLeft": 36
+        },
+        {
+            "tileIndex": 38,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 61,
+            "tileUp": 314,
+            "tileRight": 39,
+            "tileLeft": 37
+        },
+        {
+            "tileIndex": 41,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 64,
+            "tileUp": 18,
+            "tileRight": 42,
+            "tileLeft": 27
+        },
+        {
+            "tileIndex": 42,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 65,
+            "tileUp": 19,
+            "tileRight": 43,
+            "tileLeft": 41
+        },
+        {
+            "tileIndex": 43,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 66,
+            "tileUp": 20,
+            "tileRight": 44,
+            "tileLeft": 42
+        },
+        {
+            "tileIndex": 44,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 67,
+            "tileUp": 21,
+            "tileRight": 45,
+            "tileLeft": 43
+        },
+        {
+            "tileIndex": 45,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 68,
+            "tileUp": 22,
+            "tileRight": 23,
+            "tileLeft": 44
+        },
+        {
+            "tileIndex": 46,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 69,
+            "tileUp": 23,
+            "tileRight": 47,
+            "tileLeft": 68
+        },
+        {
+            "tileIndex": 47,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 70,
+            "tileUp": 24,
+            "tileRight": 48,
+            "tileLeft": 46
+        },
+        {
+            "tileIndex": 48,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 71,
+            "tileUp": 25,
+            "tileRight": 49,
+            "tileLeft": 47
+        },
+        {
+            "tileIndex": 49,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 72,
+            "tileUp": 26,
+            "tileRight": 50,
+            "tileLeft": 48
+        },
+        {
+            "tileIndex": 50,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 73,
+            "tileUp": 27,
+            "tileRight": 64,
+            "tileLeft": 49
+        },
+        {
+            "tileIndex": 53,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 76,
+            "tileUp": 30,
+            "tileRight": 54,
+            "tileLeft": 52
+        },
+        {
+            "tileIndex": 54,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 77,
+            "tileUp": 31,
+            "tileRight": 55,
+            "tileLeft": 53
+        },
+        {
+            "tileIndex": 55,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 78,
+            "tileUp": 32,
+            "tileRight": 56,
+            "tileLeft": 54
+        },
+        {
+            "tileIndex": 56,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 79,
+            "tileUp": 33,
+            "tileRight": 57,
+            "tileLeft": 55
+        },
+        {
+            "tileIndex": 57,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 80,
+            "tileUp": 34,
+            "tileRight": 58,
+            "tileLeft": 56
+        },
+        {
+            "tileIndex": 58,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 81,
+            "tileUp": 35,
+            "tileRight": 59,
+            "tileLeft": 57
+        },
+        {
+            "tileIndex": 59,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 82,
+            "tileUp": 36,
+            "tileRight": 60,
+            "tileLeft": 58
+        },
+        {
+            "tileIndex": 65,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 88,
+            "tileUp": 42,
+            "tileRight": 66,
+            "tileLeft": 64
+        },
+        {
+            "tileIndex": 66,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 89,
+            "tileUp": 43,
+            "tileRight": 67,
+            "tileLeft": 65
+        },
+        {
+            "tileIndex": 67,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 90,
+            "tileUp": 44,
+            "tileRight": 68,
+            "tileLeft": 66
+        },
+        {
+            "tileIndex": 68,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 91,
+            "tileUp": 45,
+            "tileRight": 46,
+            "tileLeft": 67
+        },
+        {
+            "tileIndex": 69,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 92,
+            "tileUp": 46,
+            "tileRight": 70,
+            "tileLeft": 91
+        },
+        {
+            "tileIndex": 70,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 93,
+            "tileUp": 47,
+            "tileRight": 71,
+            "tileLeft": 69
+        },
+        {
+            "tileIndex": 71,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 94,
+            "tileUp": 48,
+            "tileRight": 72,
+            "tileLeft": 70
+        },
+        {
+            "tileIndex": 72,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 95,
+            "tileUp": 49,
+            "tileRight": 73,
+            "tileLeft": 71
+        },
+        {
+            "tileIndex": 76,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 99,
+            "tileUp": 53,
+            "tileRight": 77,
+            "tileLeft": 75
+        },
+        {
+            "tileIndex": 77,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 100,
+            "tileUp": 54,
+            "tileRight": 78,
+            "tileLeft": 76
+        },
+        {
+            "tileIndex": 78,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 32,
+            "tileUp": 55,
+            "tileRight": 79,
+            "tileLeft": 77
+        },
+        {
+            "tileIndex": 79,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 102,
+            "tileUp": 56,
+            "tileRight": 80,
+            "tileLeft": 78
+        },
+        {
+            "tileIndex": 80,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 103,
+            "tileUp": 57,
+            "tileRight": 81,
+            "tileLeft": 79
+        },
+        {
+            "tileIndex": 81,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 104,
+            "tileUp": 58,
+            "tileRight": 82,
+            "tileLeft": 80
+        },
+        {
+            "tileIndex": 82,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 105,
+            "tileUp": 59,
+            "tileRight": 83,
+            "tileLeft": 81
+        },
+        {
+            "tileIndex": 83,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 106,
+            "tileUp": 60,
+            "tileRight": 84,
+            "tileLeft": 82
+        },
+        {
+            "tileIndex": 84,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 107,
+            "tileUp": 61,
+            "tileRight": 85,
+            "tileLeft": 83
+        },
+        {
+            "tileIndex": 85,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 108,
+            "tileUp": 62,
+            "tileRight": 75,
+            "tileLeft": 84
+        },
+        {
+            "tileIndex": 87,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 133,
+            "tileUp": 64,
+            "tileRight": 88,
+            "tileLeft": 73
+        },
+        {
+            "tileIndex": 88,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 134,
+            "tileUp": 65,
+            "tileRight": 89,
+            "tileLeft": 87
+        },
+        {
+            "tileIndex": 89,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 135,
+            "tileUp": 66,
+            "tileRight": 90,
+            "tileLeft": 88
+        },
+        {
+            "tileIndex": 90,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 136,
+            "tileUp": 67,
+            "tileRight": 91,
+            "tileLeft": 89
+        },
+        {
+            "tileIndex": 91,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 137,
+            "tileUp": 68,
+            "tileRight": 69,
+            "tileLeft": 90
+        },
+        {
+            "tileIndex": 92,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 115,
+            "tileUp": 69,
+            "tileRight": 93,
+            "tileLeft": 100
+        },
+        {
+            "tileIndex": 93,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 116,
+            "tileUp": 70,
+            "tileRight": 94,
+            "tileLeft": 92
+        },
+        {
+            "tileIndex": 94,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 117,
+            "tileUp": 71,
+            "tileRight": 95,
+            "tileLeft": 93
+        },
+        {
+            "tileIndex": 95,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 118,
+            "tileUp": 72,
+            "tileRight": 96,
+            "tileLeft": 94
+        },
+        {
+            "tileIndex": 96,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 119,
+            "tileUp": 73,
+            "tileRight": 97,
+            "tileLeft": 95
+        },
+        {
+            "tileIndex": 99,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 122,
+            "tileUp": 76,
+            "tileRight": 100,
+            "tileLeft": 98
+        },
+        {
+            "tileIndex": 102,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 125,
+            "tileUp": 79,
+            "tileRight": 103,
+            "tileLeft": 108
+        },
+        {
+            "tileIndex": 103,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 126,
+            "tileUp": 80,
+            "tileRight": 104,
+            "tileLeft": 102
+        },
+        {
+            "tileIndex": 104,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 127,
+            "tileUp": 81,
+            "tileRight": 105,
+            "tileLeft": 103
+        },
+        {
+            "tileIndex": 105,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 128,
+            "tileUp": 82,
+            "tileRight": 106,
+            "tileLeft": 104
+        },
+        {
+            "tileIndex": 106,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 129,
+            "tileUp": 83,
+            "tileRight": 107,
+            "tileLeft": 105
+        },
+        {
+            "tileIndex": 107,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 130,
+            "tileUp": 84,
+            "tileRight": 108,
+            "tileLeft": 106
+        },
+        {
+            "tileIndex": 108,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 131,
+            "tileUp": 85,
+            "tileRight": 102,
+            "tileLeft": 107
+        },
+        {
+            "tileIndex": 115,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 138,
+            "tileUp": 92,
+            "tileRight": 116,
+            "tileLeft": 137
+        },
+        {
+            "tileIndex": 116,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 139,
+            "tileUp": 93,
+            "tileRight": 117,
+            "tileLeft": 115
+        },
+        {
+            "tileIndex": 117,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 140,
+            "tileUp": 94,
+            "tileRight": 118,
+            "tileLeft": 116
+        },
+        {
+            "tileIndex": 118,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 141,
+            "tileUp": 95,
+            "tileRight": 119,
+            "tileLeft": 117
+        },
+        {
+            "tileIndex": 119,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 142,
+            "tileUp": 96,
+            "tileRight": 120,
+            "tileLeft": 118
+        },
+        {
+            "tileIndex": 121,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 144,
+            "tileUp": 98,
+            "tileRight": 122,
+            "tileLeft": 120
+        },
+        {
+            "tileIndex": 122,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 145,
+            "tileUp": 99,
+            "tileRight": 123,
+            "tileLeft": 121
+        },
+        {
+            "tileIndex": 125,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 148,
+            "tileUp": 102,
+            "tileRight": 126,
+            "tileLeft": 131
+        },
+        {
+            "tileIndex": 126,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 149,
+            "tileUp": 103,
+            "tileRight": 127,
+            "tileLeft": 125
+        },
+        {
+            "tileIndex": 127,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 150,
+            "tileUp": 104,
+            "tileRight": 128,
+            "tileLeft": 126
+        },
+        {
+            "tileIndex": 129,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 152,
+            "tileUp": 106,
+            "tileRight": 130,
+            "tileLeft": 128
+        },
+        {
+            "tileIndex": 130,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 153,
+            "tileUp": 107,
+            "tileRight": 131,
+            "tileLeft": 129
+        },
+        {
+            "tileIndex": 131,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 154,
+            "tileUp": 108,
+            "tileRight": 125,
+            "tileLeft": 130
+        },
+        {
+            "tileIndex": 133,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 156,
+            "tileUp": 87,
+            "tileRight": 134,
+            "tileLeft": 123
+        },
+        {
+            "tileIndex": 134,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 157,
+            "tileUp": 88,
+            "tileRight": 135,
+            "tileLeft": 133
+        },
+        {
+            "tileIndex": 135,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 158,
+            "tileUp": 89,
+            "tileRight": 136,
+            "tileLeft": 134
+        },
+        {
+            "tileIndex": 136,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 159,
+            "tileUp": 90,
+            "tileRight": 137,
+            "tileLeft": 135
+        },
+        {
+            "tileIndex": 137,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 160,
+            "tileUp": 91,
+            "tileRight": 115,
+            "tileLeft": 136
+        },
+        {
+            "tileIndex": 138,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 161,
+            "tileUp": 115,
+            "tileRight": 139,
+            "tileLeft": 160
+        },
+        {
+            "tileIndex": 139,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 162,
+            "tileUp": 116,
+            "tileRight": 140,
+            "tileLeft": 138
+        },
+        {
+            "tileIndex": 140,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 163,
+            "tileUp": 117,
+            "tileRight": 141,
+            "tileLeft": 139
+        },
+        {
+            "tileIndex": 141,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 164,
+            "tileUp": 118,
+            "tileRight": 142,
+            "tileLeft": 140
+        },
+        {
+            "tileIndex": 142,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 165,
+            "tileUp": 119,
+            "tileRight": 143,
+            "tileLeft": 141
+        },
+        {
+            "tileIndex": 143,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 166,
+            "tileUp": 120,
+            "tileRight": 144,
+            "tileLeft": 142
+        },
+        {
+            "tileIndex": 144,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 167,
+            "tileUp": 121,
+            "tileRight": 145,
+            "tileLeft": 143
+        },
+        {
+            "tileIndex": 145,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 168,
+            "tileUp": 122,
+            "tileRight": 146,
+            "tileLeft": 144
+        },
+        {
+            "tileIndex": 148,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 171,
+            "tileUp": 125,
+            "tileRight": 149,
+            "tileLeft": 150
+        },
+        {
+            "tileIndex": 149,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 172,
+            "tileUp": 126,
+            "tileRight": 150,
+            "tileLeft": 148
+        },
+        {
+            "tileIndex": 150,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 173,
+            "tileUp": 127,
+            "tileRight": 148,
+            "tileLeft": 149
+        },
+        {
+            "tileIndex": 152,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 175,
+            "tileUp": 129,
+            "tileRight": 153,
+            "tileLeft": 154
+        },
+        {
+            "tileIndex": 153,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 176,
+            "tileUp": 130,
+            "tileRight": 154,
+            "tileLeft": 152
+        },
+        {
+            "tileIndex": 154,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 177,
+            "tileUp": 131,
+            "tileRight": 152,
+            "tileLeft": 153
+        },
+        {
+            "tileIndex": 156,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 179,
+            "tileUp": 133,
+            "tileRight": 157,
+            "tileLeft": 146
+        },
+        {
+            "tileIndex": 157,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 180,
+            "tileUp": 134,
+            "tileRight": 158,
+            "tileLeft": 156
+        },
+        {
+            "tileIndex": 158,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 181,
+            "tileUp": 135,
+            "tileRight": 159,
+            "tileLeft": 157
+        },
+        {
+            "tileIndex": 159,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 182,
+            "tileUp": 136,
+            "tileRight": 160,
+            "tileLeft": 158
+        },
+        {
+            "tileIndex": 160,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 183,
+            "tileUp": 137,
+            "tileRight": 138,
+            "tileLeft": 159
+        },
+        {
+            "tileIndex": 161,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 184,
+            "tileUp": 138,
+            "tileRight": 162,
+            "tileLeft": 183
+        },
+        {
+            "tileIndex": 162,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 185,
+            "tileUp": 139,
+            "tileRight": 163,
+            "tileLeft": 161
+        },
+        {
+            "tileIndex": 163,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 186,
+            "tileUp": 140,
+            "tileRight": 164,
+            "tileLeft": 162
+        },
+        {
+            "tileIndex": 164,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 187,
+            "tileUp": 141,
+            "tileRight": 165,
+            "tileLeft": 163
+        },
+        {
+            "tileIndex": 165,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 188,
+            "tileUp": 142,
+            "tileRight": 166,
+            "tileLeft": 164
+        },
+        {
+            "tileIndex": 166,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 97,
+            "tileUp": 143,
+            "tileRight": 167,
+            "tileLeft": 165
+        },
+        {
+            "tileIndex": 167,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 190,
+            "tileUp": 144,
+            "tileRight": 168,
+            "tileLeft": 166
+        },
+        {
+            "tileIndex": 168,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 191,
+            "tileUp": 145,
+            "tileRight": 169,
+            "tileLeft": 167
+        },
+        {
+            "tileIndex": 171,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 194,
+            "tileUp": 148,
+            "tileRight": 172,
+            "tileLeft": 173
+        },
+        {
+            "tileIndex": 172,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 195,
+            "tileUp": 149,
+            "tileRight": 173,
+            "tileLeft": 171
+        },
+        {
+            "tileIndex": 173,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 196,
+            "tileUp": 150,
+            "tileRight": 171,
+            "tileLeft": 172
+        },
+        {
+            "tileIndex": 176,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 199,
+            "tileUp": 153,
+            "tileRight": 177,
+            "tileLeft": 175
+        },
+        {
+            "tileIndex": 177,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 200,
+            "tileUp": 154,
+            "tileRight": 178,
+            "tileLeft": 176
+        },
+        {
+            "tileIndex": 178,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 201,
+            "tileUp": 247,
+            "tileRight": 179,
+            "tileLeft": 177
+        },
+        {
+            "tileIndex": 179,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 202,
+            "tileUp": 156,
+            "tileRight": 180,
+            "tileLeft": 178
+        },
+        {
+            "tileIndex": 180,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 203,
+            "tileUp": 157,
+            "tileRight": 181,
+            "tileLeft": 179
+        },
+        {
+            "tileIndex": 181,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 204,
+            "tileUp": 158,
+            "tileRight": 182,
+            "tileLeft": 180
+        },
+        {
+            "tileIndex": 182,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 205,
+            "tileUp": 159,
+            "tileRight": 183,
+            "tileLeft": 181
+        },
+        {
+            "tileIndex": 183,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 206,
+            "tileUp": 160,
+            "tileRight": 161,
+            "tileLeft": 182
+        },
+        {
+            "tileIndex": 184,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 207,
+            "tileUp": 161,
+            "tileRight": 185,
+            "tileLeft": 206
+        },
+        {
+            "tileIndex": 185,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 208,
+            "tileUp": 162,
+            "tileRight": 186,
+            "tileLeft": 184
+        },
+        {
+            "tileIndex": 186,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 209,
+            "tileUp": 163,
+            "tileRight": 187,
+            "tileLeft": 185
+        },
+        {
+            "tileIndex": 187,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 210,
+            "tileUp": 164,
+            "tileRight": 188,
+            "tileLeft": 186
+        },
+        {
+            "tileIndex": 188,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 211,
+            "tileUp": 165,
+            "tileRight": 198,
+            "tileLeft": 187
+        },
+        {
+            "tileIndex": 190,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 213,
+            "tileUp": 167,
+            "tileRight": 191,
+            "tileLeft": 192
+        },
+        {
+            "tileIndex": 191,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 214,
+            "tileUp": 168,
+            "tileRight": 192,
+            "tileLeft": 190
+        },
+        {
+            "tileIndex": 192,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 215,
+            "tileUp": 169,
+            "tileRight": 190,
+            "tileLeft": 191
+        },
+        {
+            "tileIndex": 194,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 217,
+            "tileUp": 171,
+            "tileRight": 195,
+            "tileLeft": 196
+        },
+        {
+            "tileIndex": 195,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 218,
+            "tileUp": 172,
+            "tileRight": 196,
+            "tileLeft": 194
+        },
+        {
+            "tileIndex": 196,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 219,
+            "tileUp": 173,
+            "tileRight": 194,
+            "tileLeft": 195
+        },
+        {
+            "tileIndex": 199,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 222,
+            "tileUp": 176,
+            "tileRight": 200,
+            "tileLeft": 198
+        },
+        {
+            "tileIndex": 200,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 223,
+            "tileUp": 177,
+            "tileRight": 201,
+            "tileLeft": 199
+        },
+        {
+            "tileIndex": 201,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 224,
+            "tileUp": 178,
+            "tileRight": 202,
+            "tileLeft": 200
+        },
+        {
+            "tileIndex": 202,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 225,
+            "tileUp": 179,
+            "tileRight": 203,
+            "tileLeft": 201
+        },
+        {
+            "tileIndex": 203,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 226,
+            "tileUp": 180,
+            "tileRight": 204,
+            "tileLeft": 202
+        },
+        {
+            "tileIndex": 204,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 227,
+            "tileUp": 181,
+            "tileRight": 205,
+            "tileLeft": 203
+        },
+        {
+            "tileIndex": 205,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 228,
+            "tileUp": 182,
+            "tileRight": 206,
+            "tileLeft": 204
+        },
+        {
+            "tileIndex": 206,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 229,
+            "tileUp": 183,
+            "tileRight": 184,
+            "tileLeft": 205
+        },
+        {
+            "tileIndex": 207,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 253,
+            "tileUp": 184,
+            "tileRight": 208,
+            "tileLeft": 229
+        },
+        {
+            "tileIndex": 208,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 254,
+            "tileUp": 185,
+            "tileRight": 209,
+            "tileLeft": 207
+        },
+        {
+            "tileIndex": 209,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 255,
+            "tileUp": 186,
+            "tileRight": 210,
+            "tileLeft": 208
+        },
+        {
+            "tileIndex": 210,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 256,
+            "tileUp": 187,
+            "tileRight": 211,
+            "tileLeft": 209
+        },
+        {
+            "tileIndex": 211,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 257,
+            "tileUp": 188,
+            "tileRight": 221,
+            "tileLeft": 210
+        },
+        {
+            "tileIndex": 213,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 236,
+            "tileUp": 190,
+            "tileRight": 214,
+            "tileLeft": 219
+        },
+        {
+            "tileIndex": 214,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 237,
+            "tileUp": 191,
+            "tileRight": 215,
+            "tileLeft": 213
+        },
+        {
+            "tileIndex": 215,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 238,
+            "tileUp": 192,
+            "tileRight": 216,
+            "tileLeft": 214
+        },
+        {
+            "tileIndex": 217,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 240,
+            "tileUp": 194,
+            "tileRight": 218,
+            "tileLeft": 216
+        },
+        {
+            "tileIndex": 218,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 241,
+            "tileUp": 195,
+            "tileRight": 219,
+            "tileLeft": 217
+        },
+        {
+            "tileIndex": 219,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 242,
+            "tileUp": 196,
+            "tileRight": 213,
+            "tileLeft": 218
+        },
+        {
+            "tileIndex": 222,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 245,
+            "tileUp": 199,
+            "tileRight": 223,
+            "tileLeft": 221
+        },
+        {
+            "tileIndex": 223,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 246,
+            "tileUp": 200,
+            "tileRight": 224,
+            "tileLeft": 222
+        },
+        {
+            "tileIndex": 225,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 248,
+            "tileUp": 202,
+            "tileRight": 226,
+            "tileLeft": 224
+        },
+        {
+            "tileIndex": 226,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 249,
+            "tileUp": 203,
+            "tileRight": 227,
+            "tileLeft": 225
+        },
+        {
+            "tileIndex": 227,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 250,
+            "tileUp": 204,
+            "tileRight": 228,
+            "tileLeft": 226
+        },
+        {
+            "tileIndex": 228,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 251,
+            "tileUp": 205,
+            "tileRight": 229,
+            "tileLeft": 227
+        },
+        {
+            "tileIndex": 229,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 252,
+            "tileUp": 206,
+            "tileRight": 207,
+            "tileLeft": 228
+        },
+        {
+            "tileIndex": 236,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 259,
+            "tileUp": 213,
+            "tileRight": 237,
+            "tileLeft": 242
+        },
+        {
+            "tileIndex": 237,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 260,
+            "tileUp": 214,
+            "tileRight": 238,
+            "tileLeft": 236
+        },
+        {
+            "tileIndex": 238,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 261,
+            "tileUp": 215,
+            "tileRight": 239,
+            "tileLeft": 237
+        },
+        {
+            "tileIndex": 239,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 262,
+            "tileUp": 216,
+            "tileRight": 240,
+            "tileLeft": 238
+        },
+        {
+            "tileIndex": 240,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 263,
+            "tileUp": 217,
+            "tileRight": 241,
+            "tileLeft": 239
+        },
+        {
+            "tileIndex": 241,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 264,
+            "tileUp": 218,
+            "tileRight": 242,
+            "tileLeft": 240
+        },
+        {
+            "tileIndex": 242,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 265,
+            "tileUp": 219,
+            "tileRight": 236,
+            "tileLeft": 241
+        },
+        {
+            "tileIndex": 245,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 268,
+            "tileUp": 222,
+            "tileRight": 246,
+            "tileLeft": 244
+        },
+        {
+            "tileIndex": 246,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 269,
+            "tileUp": 223,
+            "tileRight": 247,
+            "tileLeft": 245
+        },
+        {
+            "tileIndex": 248,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 271,
+            "tileUp": 225,
+            "tileRight": 249,
+            "tileLeft": 247
+        },
+        {
+            "tileIndex": 249,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 272,
+            "tileUp": 226,
+            "tileRight": 250,
+            "tileLeft": 248
+        },
+        {
+            "tileIndex": 250,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 273,
+            "tileUp": 227,
+            "tileRight": 251,
+            "tileLeft": 249
+        },
+        {
+            "tileIndex": 251,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 274,
+            "tileUp": 228,
+            "tileRight": 252,
+            "tileLeft": 250
+        },
+        {
+            "tileIndex": 252,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 275,
+            "tileUp": 229,
+            "tileRight": 244,
+            "tileLeft": 251
+        },
+        {
+            "tileIndex": 253,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 276,
+            "tileUp": 207,
+            "tileRight": 254,
+            "tileLeft": 275
+        },
+        {
+            "tileIndex": 254,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 277,
+            "tileUp": 208,
+            "tileRight": 255,
+            "tileLeft": 253
+        },
+        {
+            "tileIndex": 255,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 278,
+            "tileUp": 209,
+            "tileRight": 256,
+            "tileLeft": 254
+        },
+        {
+            "tileIndex": 256,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 279,
+            "tileUp": 210,
+            "tileRight": 257,
+            "tileLeft": 255
+        },
+        {
+            "tileIndex": 257,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 280,
+            "tileUp": 211,
+            "tileRight": 271,
+            "tileLeft": 256
+        },
+        {
+            "tileIndex": 259,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 282,
+            "tileUp": 236,
+            "tileRight": 260,
+            "tileLeft": 269
+        },
+        {
+            "tileIndex": 260,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 283,
+            "tileUp": 237,
+            "tileRight": 261,
+            "tileLeft": 259
+        },
+        {
+            "tileIndex": 261,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 284,
+            "tileUp": 238,
+            "tileRight": 262,
+            "tileLeft": 260
+        },
+        {
+            "tileIndex": 262,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 285,
+            "tileUp": 239,
+            "tileRight": 263,
+            "tileLeft": 261
+        },
+        {
+            "tileIndex": 263,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 286,
+            "tileUp": 240,
+            "tileRight": 264,
+            "tileLeft": 262
+        },
+        {
+            "tileIndex": 264,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 287,
+            "tileUp": 241,
+            "tileRight": 265,
+            "tileLeft": 263
+        },
+        {
+            "tileIndex": 265,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 288,
+            "tileUp": 242,
+            "tileRight": 266,
+            "tileLeft": 264
+        },
+        {
+            "tileIndex": 266,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 289,
+            "tileUp": 312,
+            "tileRight": 267,
+            "tileLeft": 265
+        },
+        {
+            "tileIndex": 267,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 290,
+            "tileUp": 244,
+            "tileRight": 268,
+            "tileLeft": 266
+        },
+        {
+            "tileIndex": 268,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 291,
+            "tileUp": 245,
+            "tileRight": 269,
+            "tileLeft": 267
+        },
+        {
+            "tileIndex": 269,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 292,
+            "tileUp": 246,
+            "tileRight": 259,
+            "tileLeft": 268
+        },
+        {
+            "tileIndex": 271,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 294,
+            "tileUp": 248,
+            "tileRight": 272,
+            "tileLeft": 257
+        },
+        {
+            "tileIndex": 272,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 295,
+            "tileUp": 249,
+            "tileRight": 273,
+            "tileLeft": 271
+        },
+        {
+            "tileIndex": 273,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 296,
+            "tileUp": 250,
+            "tileRight": 274,
+            "tileLeft": 272
+        },
+        {
+            "tileIndex": 274,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 297,
+            "tileUp": 251,
+            "tileRight": 275,
+            "tileLeft": 273
+        },
+        {
+            "tileIndex": 275,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 298,
+            "tileUp": 252,
+            "tileRight": 253,
+            "tileLeft": 274
+        },
+        {
+            "tileIndex": 276,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 299,
+            "tileUp": 253,
+            "tileRight": 277,
+            "tileLeft": 298
+        },
+        {
+            "tileIndex": 277,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 300,
+            "tileUp": 254,
+            "tileRight": 278,
+            "tileLeft": 276
+        },
+        {
+            "tileIndex": 278,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 301,
+            "tileUp": 255,
+            "tileRight": 279,
+            "tileLeft": 277
+        },
+        {
+            "tileIndex": 279,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 302,
+            "tileUp": 256,
+            "tileRight": 280,
+            "tileLeft": 278
+        },
+        {
+            "tileIndex": 280,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 303,
+            "tileUp": 257,
+            "tileRight": 294,
+            "tileLeft": 279
+        },
+        {
+            "tileIndex": 282,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 305,
+            "tileUp": 259,
+            "tileRight": 283,
+            "tileLeft": 292
+        },
+        {
+            "tileIndex": 283,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 306,
+            "tileUp": 260,
+            "tileRight": 284,
+            "tileLeft": 282
+        },
+        {
+            "tileIndex": 284,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 307,
+            "tileUp": 261,
+            "tileRight": 285,
+            "tileLeft": 283
+        },
+        {
+            "tileIndex": 285,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 308,
+            "tileUp": 262,
+            "tileRight": 286,
+            "tileLeft": 284
+        },
+        {
+            "tileIndex": 286,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 309,
+            "tileUp": 263,
+            "tileRight": 287,
+            "tileLeft": 285
+        },
+        {
+            "tileIndex": 287,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 310,
+            "tileUp": 264,
+            "tileRight": 288,
+            "tileLeft": 286
+        },
+        {
+            "tileIndex": 288,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 311,
+            "tileUp": 265,
+            "tileRight": 289,
+            "tileLeft": 287
+        },
+        {
+            "tileIndex": 289,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 312,
+            "tileUp": 266,
+            "tileRight": 290,
+            "tileLeft": 288
+        },
+        {
+            "tileIndex": 290,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 313,
+            "tileUp": 267,
+            "tileRight": 291,
+            "tileLeft": 289
+        },
+        {
+            "tileIndex": 291,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 314,
+            "tileUp": 268,
+            "tileRight": 292,
+            "tileLeft": 290
+        },
+        {
+            "tileIndex": 292,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 315,
+            "tileUp": 269,
+            "tileRight": 282,
+            "tileLeft": 291
+        },
+        {
+            "tileIndex": 294,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 317,
+            "tileUp": 271,
+            "tileRight": 295,
+            "tileLeft": 280
+        },
+        {
+            "tileIndex": 295,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 318,
+            "tileUp": 272,
+            "tileRight": 296,
+            "tileLeft": 294
+        },
+        {
+            "tileIndex": 296,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 319,
+            "tileUp": 273,
+            "tileRight": 297,
+            "tileLeft": 295
+        },
+        {
+            "tileIndex": 297,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 320,
+            "tileUp": 274,
+            "tileRight": 298,
+            "tileLeft": 296
+        },
+        {
+            "tileIndex": 298,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 321,
+            "tileUp": 275,
+            "tileRight": 276,
+            "tileLeft": 297
+        },
+        {
+            "tileIndex": 299,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 322,
+            "tileUp": 276,
+            "tileRight": 300,
+            "tileLeft": 321
+        },
+        {
+            "tileIndex": 300,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 323,
+            "tileUp": 277,
+            "tileRight": 301,
+            "tileLeft": 299
+        },
+        {
+            "tileIndex": 301,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 324,
+            "tileUp": 278,
+            "tileRight": 302,
+            "tileLeft": 300
+        },
+        {
+            "tileIndex": 302,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 325,
+            "tileUp": 279,
+            "tileRight": 303,
+            "tileLeft": 301
+        },
+        {
+            "tileIndex": 305,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 29,
+            "tileUp": 282,
+            "tileRight": 306,
+            "tileLeft": 315
+        },
+        {
+            "tileIndex": 306,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 30,
+            "tileUp": 283,
+            "tileRight": 307,
+            "tileLeft": 305
+        },
+        {
+            "tileIndex": 307,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 31,
+            "tileUp": 284,
+            "tileRight": 308,
+            "tileLeft": 306
+        },
+        {
+            "tileIndex": 308,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 216,
+            "tileUp": 285,
+            "tileRight": 309,
+            "tileLeft": 307
+        },
+        {
+            "tileIndex": 309,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 33,
+            "tileUp": 286,
+            "tileRight": 310,
+            "tileLeft": 308
+        },
+        {
+            "tileIndex": 310,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 34,
+            "tileUp": 287,
+            "tileRight": 311,
+            "tileLeft": 309
+        },
+        {
+            "tileIndex": 311,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 35,
+            "tileUp": 288,
+            "tileRight": 312,
+            "tileLeft": 310
+        },
+        {
+            "tileIndex": 312,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 266,
+            "tileUp": 289,
+            "tileRight": 313,
+            "tileLeft": 311
+        },
+        {
+            "tileIndex": 313,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 37,
+            "tileUp": 290,
+            "tileRight": 314,
+            "tileLeft": 312
+        },
+        {
+            "tileIndex": 314,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 38,
+            "tileUp": 291,
+            "tileRight": 315,
+            "tileLeft": 313
+        },
+        {
+            "tileIndex": 315,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 39,
+            "tileUp": 292,
+            "tileRight": 305,
+            "tileLeft": 314
+        },
+        {
+            "tileIndex": 317,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 340,
+            "tileUp": 294,
+            "tileRight": 318,
+            "tileLeft": 303
+        },
+        {
+            "tileIndex": 318,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 341,
+            "tileUp": 295,
+            "tileRight": 319,
+            "tileLeft": 317
+        },
+        {
+            "tileIndex": 319,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 342,
+            "tileUp": 296,
+            "tileRight": 320,
+            "tileLeft": 318
+        },
+        {
+            "tileIndex": 320,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 343,
+            "tileUp": 297,
+            "tileRight": 321,
+            "tileLeft": 319
+        },
+        {
+            "tileIndex": 321,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 344,
+            "tileUp": 298,
+            "tileRight": 299,
+            "tileLeft": 320
+        },
+        {
+            "tileIndex": 322,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 0,
+            "tileUp": 299,
+            "tileRight": 323,
+            "tileLeft": 344
+        },
+        {
+            "tileIndex": 323,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 1,
+            "tileUp": 300,
+            "tileRight": 324,
+            "tileLeft": 322
+        },
+        {
+            "tileIndex": 324,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 2,
+            "tileUp": 301,
+            "tileRight": 325,
+            "tileLeft": 323
+        },
+        {
+            "tileIndex": 325,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 3,
+            "tileUp": 302,
+            "tileRight": 326,
+            "tileLeft": 324
+        },
+        {
+            "tileIndex": 340,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 18,
+            "tileUp": 317,
+            "tileRight": 341,
+            "tileLeft": 326
+        },
+        {
+            "tileIndex": 341,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 19,
+            "tileUp": 318,
+            "tileRight": 342,
+            "tileLeft": 340
+        },
+        {
+            "tileIndex": 342,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 20,
+            "tileUp": 319,
+            "tileRight": 343,
+            "tileLeft": 341
+        },
+        {
+            "tileIndex": 343,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 1,
+            "tileDown": 21,
+            "tileUp": 320,
+            "tileRight": 344,
+            "tileLeft": 342
+        },
+        {
+            "tileIndex": 344,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 22,
+            "tileUp": 321,
+            "tileRight": 322,
+            "tileLeft": 343
+        },
+        {
+            "tileIndex": 73,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 96,
+            "tileUp": 50,
+            "tileRight": 87,
+            "tileLeft": 72
+        },
+        {
+            "tileIndex": 98,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 121,
+            "tileUp": 75,
+            "tileRight": 99,
+            "tileLeft": 97
+        },
+        {
+            "tileIndex": 75,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 98,
+            "tileUp": 52,
+            "tileRight": 76,
+            "tileLeft": 85
+        },
+        {
+            "tileIndex": 52,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 75,
+            "tileUp": 29,
+            "tileRight": 53,
+            "tileLeft": 62
+        },
+        {
+            "tileIndex": 29,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 52,
+            "tileUp": 305,
+            "tileRight": 30,
+            "tileLeft": 39
+        },
+        {
+            "tileIndex": 39,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 62,
+            "tileUp": 315,
+            "tileRight": 29,
+            "tileLeft": 38
+        },
+        {
+            "tileIndex": 3,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 26,
+            "tileUp": 325,
+            "tileRight": 4,
+            "tileLeft": 2
+        },
+        {
+            "tileIndex": 60,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 83,
+            "tileUp": 37,
+            "tileRight": 61,
+            "tileLeft": 59
+        },
+        {
+            "tileIndex": 61,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 84,
+            "tileUp": 38,
+            "tileRight": 62,
+            "tileLeft": 60
+        },
+        {
+            "tileIndex": 62,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 85,
+            "tileUp": 39,
+            "tileRight": 52,
+            "tileLeft": 61
+        },
+        {
+            "tileIndex": 64,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 87,
+            "tileUp": 41,
+            "tileRight": 65,
+            "tileLeft": 50
+        },
+        {
+            "tileIndex": 303,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 326,
+            "tileUp": 280,
+            "tileRight": 317,
+            "tileLeft": 302
+        },
+        {
+            "tileIndex": 326,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 4,
+            "tileUp": 303,
+            "tileRight": 340,
+            "tileLeft": 325
+        },
+        {
+            "tileIndex": 120,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 143,
+            "tileUp": 97,
+            "tileRight": 121,
+            "tileLeft": 119
+        },
+        {
+            "tileIndex": 97,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 120,
+            "tileUp": 166,
+            "tileRight": 98,
+            "tileLeft": 96
+        },
+        {
+            "tileIndex": 224,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 247,
+            "tileUp": 201,
+            "tileRight": 225,
+            "tileLeft": 223
+        },
+        {
+            "tileIndex": 247,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 178,
+            "tileUp": 224,
+            "tileRight": 248,
+            "tileLeft": 246
+        },
+        {
+            "tileIndex": 216,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 239,
+            "tileUp": 308,
+            "tileRight": 217,
+            "tileLeft": 215
+        },
+        {
+            "tileIndex": 128,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 36,
+            "tileUp": 105,
+            "tileRight": 129,
+            "tileLeft": 127
+        },
+        {
+            "tileIndex": 100,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 123,
+            "tileUp": 77,
+            "tileRight": 92,
+            "tileLeft": 99
+        },
+        {
+            "tileIndex": 123,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 146,
+            "tileUp": 100,
+            "tileRight": 133,
+            "tileLeft": 122
+        },
+        {
+            "tileIndex": 146,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 169,
+            "tileUp": 123,
+            "tileRight": 156,
+            "tileLeft": 145
+        },
+        {
+            "tileIndex": 169,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 192,
+            "tileUp": 146,
+            "tileRight": 175,
+            "tileLeft": 168
+        },
+        {
+            "tileIndex": 175,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 198,
+            "tileUp": 152,
+            "tileRight": 176,
+            "tileLeft": 169
+        },
+        {
+            "tileIndex": 198,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 221,
+            "tileUp": 175,
+            "tileRight": 199,
+            "tileLeft": 188
+        },
+        {
+            "tileIndex": 221,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 244,
+            "tileUp": 198,
+            "tileRight": 222,
+            "tileLeft": 211
+        },
+        {
+            "tileIndex": 244,
+            "tilePrefab": 0,
+            "tilePrefabVariant": 0,
+            "tileDown": 267,
+            "tileUp": 221,
+            "tileRight": 245,
+            "tileLeft": 252
+        }
+    ],
+    "props": [
+        {
+            "tileIndex": 22,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 23,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 46,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 69,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 92,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 115,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 138,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 160,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 161,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 183,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 184,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 206,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 207,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 229,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 252,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 253,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 275,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 298,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 321,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 322,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 340,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 341,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 342,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 343,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 344,
+            "direction": 1,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 172,
+            "direction": 1,
+            "propPrefab": 1,
+            "propPrefabVariant": 0,
+            "isWinProp": true
+        },
+        {
+            "tileIndex": 0,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 2,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 3,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 73,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 96,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 119,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 142,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 29,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 52,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 75,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 98,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 144,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 167,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 190,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 213,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 236,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 259,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 282,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 305,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 121,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 211,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 210,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 209,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 208,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 254,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 255,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 257,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 256,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 280,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 303,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 326,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 306,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 307,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 308,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 309,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 310,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 311,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 312,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 313,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 314,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 315,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 30,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 31,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 32,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 33,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 34,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 35,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 36,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 38,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 37,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 39,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 62,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 85,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 108,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 131,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 154,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 177,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 200,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 223,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 246,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 269,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 292,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 317,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 294,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 271,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 248,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 225,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 202,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 133,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 134,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 135,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 136,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 137,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 87,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 64,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 41,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 88,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 89,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 90,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 91,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 157,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 158,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 159,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 295,
+            "direction": 4,
+            "propPrefab": 2,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 272,
+            "direction": 4,
+            "propPrefab": 2,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 319,
+            "direction": 2,
+            "propPrefab": 2,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 320,
+            "direction": 2,
+            "propPrefab": 2,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 249,
+            "direction": 2,
+            "propPrefab": 7,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 318,
+            "direction": 2,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 251,
+            "direction": 2,
+            "propPrefab": 7,
+            "propPrefabVariant": 2,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 228,
+            "direction": 2,
+            "propPrefab": 7,
+            "propPrefabVariant": 2,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 205,
+            "direction": 1,
+            "propPrefab": 10,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 274,
+            "direction": 2,
+            "propPrefab": 10,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 185,
+            "direction": 2,
+            "propPrefab": 8,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 186,
+            "direction": 2,
+            "propPrefab": 5,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 187,
+            "direction": 2,
+            "propPrefab": 4,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 72,
+            "direction": 2,
+            "propPrefab": 4,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 49,
+            "direction": 2,
+            "propPrefab": 4,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 24,
+            "direction": 2,
+            "propPrefab": 4,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 25,
+            "direction": 1,
+            "propPrefab": 6,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 26,
+            "direction": 1,
+            "propPrefab": 4,
+            "propPrefabVariant": 3,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 95,
+            "direction": 0,
+            "propPrefab": 4,
+            "propPrefabVariant": 2,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 70,
+            "direction": 4,
+            "propPrefab": 7,
+            "propPrefabVariant": 3,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 93,
+            "direction": 4,
+            "propPrefab": 7,
+            "propPrefabVariant": 3,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 116,
+            "direction": 4,
+            "propPrefab": 7,
+            "propPrefabVariant": 3,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 139,
+            "direction": 4,
+            "propPrefab": 7,
+            "propPrefabVariant": 3,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 76,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 122,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 145,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 168,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 191,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 214,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 237,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 260,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 84,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 107,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 130,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 153,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 176,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 199,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 222,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 245,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 268,
+            "direction": 3,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 79,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 125,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 148,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 194,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 240,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 104,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 150,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 219,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 242,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 1,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 54,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 55,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 56,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 57,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 58,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 59,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 60,
+            "direction": 1,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 284,
+            "direction": 2,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 285,
+            "direction": 2,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 286,
+            "direction": 2,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 287,
+            "direction": 2,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 288,
+            "direction": 2,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 289,
+            "direction": 2,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 290,
+            "direction": 2,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 195,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 279,
+            "direction": 3,
+            "propPrefab": 9,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 65,
+            "direction": 4,
+            "propPrefab": 9,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 19,
+            "direction": 4,
+            "propPrefab": 4,
+            "propPrefabVariant": 3,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 325,
+            "direction": 4,
+            "propPrefab": 4,
+            "propPrefabVariant": 3,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 302,
+            "direction": 4,
+            "propPrefab": 4,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 42,
+            "direction": 4,
+            "propPrefab": 4,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 1,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 217,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 2,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 265,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 2,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 196,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 2,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 81,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 2,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 102,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 171,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 263,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 127,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 173,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 149,
+            "direction": 0,
+            "propPrefab": 7,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 165,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 188,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 166,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 97,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 156,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 179,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 178,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 247,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 18,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 99,
+            "direction": 4,
+            "propPrefab": 3,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 4,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 27,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 50,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 105,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 239,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 53,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 283,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 291,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        },
+        {
+            "tileIndex": 61,
+            "direction": 0,
+            "propPrefab": 0,
+            "propPrefabVariant": 0,
+            "isWinProp": false
+        }
+    ],
+    "players": [
+        {
+            "tileIndex": 277,
+            "direction": 1
+        },
+        {
+            "tileIndex": 67,
+            "direction": 1
+        },
+        {
+            "tileIndex": 301,
+            "direction": 1
+        },
+        {
+            "tileIndex": 43,
+            "direction": 1
+        },
+        {
+            "tileIndex": 276,
+            "direction": 1
+        },
+        {
+            "tileIndex": 68,
+            "direction": 1
+        },
+        {
+            "tileIndex": 324,
+            "direction": 1
+        },
+        {
+            "tileIndex": 20,
+            "direction": 1
+        }
+    ]
+}
